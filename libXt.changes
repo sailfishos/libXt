@@ -1,0 +1,11 @@
+* Thu Jun 24 2010 Li Peng <peng.li@intel.com> - 1.0.7
+- Add %doc for man pages
+
+* Thu Oct 29 2009 Li Peng <peng.li@intel.com> - 1.0.7
+- libXt 1.0.7
+
+* Sat Dec 20 2008 Arjan van de Ven <arjan@linux.intel.com> 1.0.5
+- Remove stale requires on xorg-x11-proto-devel
+
+* Fri Dec 19 2008 Peng Li <peng.li@intel.com> 1.0.5
+- use spec builder and update to 1.0.5
