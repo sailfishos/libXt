@@ -7,7 +7,7 @@
 
 Name:       libXt
 Summary:    X.Org X11 libXt runtime library
-Version:    1.1.1
+Version:    1.1.3
 Release:    1
 Group:      System/Libraries
 License:    MIT
@@ -122,5 +122,6 @@ rm -rf %{buildroot}
 %{_libdir}/libXt.so
 %{_libdir}/pkgconfig/xt.pc
 %doc %{_mandir}/man3/*.3*
+%{_datadir}/doc/libXt/*.xml
 # << files devel
 

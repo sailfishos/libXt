@@ -1,3 +1,6 @@
+* Sun Jul 29 2012 Michael de Lang <kingoipo@gmail.com> - 1.1.3
+- Fixes MER#459: update libXt to 1.1.3
+
 * Tue Dec 13 2011 Marko Saukko <marko.saukko@cybercom.com> - 1.1.1
 - Update libXt to version 1.1.1
 
